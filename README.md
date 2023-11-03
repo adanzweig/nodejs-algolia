@@ -19,8 +19,8 @@ Before you begin, ensure you have met the following requirements:
 Clone the repository to your local machine:
 
 ```sh
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/adanzweig/nodejs-algolia.git
+cd nodejs-algolia
 ```
 
 Install the required dependencies:
